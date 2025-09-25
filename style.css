@@ -1,0 +1,37 @@
+div{
+    width: 15rem;
+    height: 15rem;
+}
+.card1{
+    background-color: red;
+}
+.card2{
+    background-color: orange;
+    position: absolute;
+    top: 3rem;
+    left: 3rem;
+}
+.card3{
+    background-color: yellow;
+    position: absolute;
+    top: 6rem;
+    left: 6rem;
+}
+.card4{
+    background-color: green;
+    position: absolute;
+    top: 9rem;
+    left: 9rem;
+}
+.card5{
+    background-color: blue;
+    position: absolute;
+    top: 12rem;
+    left: 12rem;
+}
+.card6{
+    background-color: purple;
+    position: absolute;
+    top: 15rem;
+    left: 15rem;
+}
